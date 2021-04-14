@@ -124,7 +124,7 @@ Clone this repo:
 
 ```sh
 git clone https://github.com/mvs-org/metaverse-vm-cli
-cd mvs-vm-cli
+cd metaverse-vm-cli
 make install
 # or just `make build` to build it into current directory
 mvs-vm-cli help
